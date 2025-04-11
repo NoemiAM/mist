@@ -11,10 +11,17 @@ Code repository for [*Tests for model misspecification in simulation-based infer
 If you use this code, please cite our paper:
 
 ```
-@article{anaumontel2024,
-  title={Tests for model misspecification in simulation-based inference: from local distortions to global model checks},
-  author={Anau Montel, Noemi and Alvey, James and Weniger, Christoph},
-  journal={arXiv preprint arXiv:2412.15100},
-  year={2024}
+@article{AnauMontel:2024flo,
+    author = "Anau Montel, Noemi and Alvey, James and Weniger, Christoph",
+    title = "{Tests for model misspecification in simulation-based inference: From local distortions to global model checks}",
+    eprint = "2412.15100",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.IM",
+    doi = "10.1103/PhysRevD.111.083013",
+    journal = "Phys. Rev. D",
+    volume = "111",
+    number = "8",
+    pages = "083013",
+    year = "2025"
 }
 ```
